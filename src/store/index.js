@@ -5,7 +5,7 @@ export default createStore({
     videos:[],
     videosLink:[],
     activeVideo:'',
-    defaultQuery:'babies',
+    defaultQuery:'vuex',
     apiKey:'AIzaSyCJrlkCV0pLdvSIZ80gGpW8bBaVCgnlqg4',
     // apiKey2:'AIzaSyDQAiCXLiwsdg3VnEWvl2jIc3Y4wUJh9Gk'
   },
